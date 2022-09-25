@@ -2251,8 +2251,8 @@
     },
     "Banda.infra/1.0.0": {
       "type": "project",
-      "path": "../Banda.infra/Banda.infra.csproj",
-      "msbuildProject": "../Banda.infra/Banda.infra.csproj"
+      "path": "../Banda.Infra/Banda.infra.csproj",
+      "msbuildProject": "../Banda.Infra/Banda.infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2295,8 +2295,8 @@
             "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Domain\\Banda.domain.csproj": {
               "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Domain\\Banda.domain.csproj"
             },
-            "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj": {
-              "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj"
+            "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj": {
+              "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj"
             }
           }
         }

@@ -31,8 +31,8 @@
               "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Domain\\Banda.domain.csproj": {
                 "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Domain\\Banda.domain.csproj"
               },
-              "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj": {
-                "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj"
+              "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj": {
+                "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj": {
+    "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj",
+        "projectUniqueName": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj",
         "projectName": "Banda.infra",
-        "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj",
+        "projectPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj",
         "packagesPath": "C:\\Users\\SAMSUNGI3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\obj\\",
+        "outputPath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAMSUNGI3\\AppData\\Roaming\\NuGet\\NuGet.Config",
