@@ -1,0 +1,14 @@
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\bin\Debug\net6.0\Banda.domain.deps.json
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\bin\Debug\net6.0\Banda.domain.runtimeconfig.json
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\bin\Debug\net6.0\Banda.domain.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\bin\Debug\net6.0\Banda.domain.pdb
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.csproj.AssemblyReference.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.AssemblyInfoInputs.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.AssemblyInfo.cs
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\refint\Banda.domain.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.pdb
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\Banda.domain.genruntimeconfig.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.Domain\obj\Debug\net6.0\ref\Banda.domain.dll

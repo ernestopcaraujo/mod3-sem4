@@ -1,0 +1,17 @@
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.infra.deps.json
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.infra.runtimeconfig.json
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.infra.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.infra.pdb
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.domain.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\bin\Debug\net6.0\Banda.domain.pdb
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.csproj.AssemblyReference.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.AssemblyInfoInputs.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.AssemblyInfo.cs
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.csproj.CopyComplete
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\refint\Banda.infra.dll
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.pdb
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\Banda.infra.genruntimeconfig.cache
+C:\Users\SAMSUNGI3\Desktop\vscodedev\entregas\semana25Exercicios\Banda.infra\obj\Debug\net6.0\ref\Banda.infra.dll
