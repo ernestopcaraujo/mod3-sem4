@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlQTuVKcahY99WvUyVVQnSGntha68krV00YrMr5PzZBuULXwkCipH2hglyZmt3CdQYsW0w7q3kFMfKb5G5CPGg==",
+  "dgSpecHash": "sdyYz25oYOcoZxuviuOdLGGWb9X2VOjoC6YXeGkAhYl+SWe99gfoEaljxBKcfJCZW/do0v1R9VSQSHj9OT6ifA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.infra\\Banda.infra.csproj",
+  "projectFilePath": "C:\\Users\\SAMSUNGI3\\Desktop\\vscodedev\\entregas\\semana25Exercicios\\Banda.Infra\\Banda.infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAMSUNGI3\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SAMSUNGI3\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

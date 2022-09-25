@@ -13,14 +13,16 @@ namespace Banda.domain.Models
         public string NomeMusica {get; set;}
         public int SequenciaMusica {get; set;}
 
-        
-        public Grupo(GrupoDTO  grupoDTO)
-        {
-            Id = grupoDTO.Id;
-            Descricao = grupoDTO.Descricao;
-            NomeMusica = grupoDTO.NomeMusica;
-            SequenciaMusica = grupoDTO.SequenciaMusica;
-        }
+        //Versão anterior abaixo onde a conversão de DTO para Model
+        //era feita aqui na Model
+
+        // public Grupo(GrupoDTO  grupoDTO)
+        // {
+        //     Id = grupoDTO.Id;
+        //     Descricao = grupoDTO.Descricao;
+        //     NomeMusica = grupoDTO.NomeMusica;
+        //     SequenciaMusica = grupoDTO.SequenciaMusica;
+        // }
 
         public Grupo()
         {
